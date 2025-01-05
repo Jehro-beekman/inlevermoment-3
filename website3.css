@@ -1,0 +1,62 @@
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://example.com/nature-background.jpg');
+    background-size: cover;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4f4e4e;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #ffffff;
+}
+
+.content {
+    max-width: 800px;
+    margin: 50px auto;
+    color: #fff;
+    background-color: #4f4e4e;
+    padding: 20px;  
+    border-radius: 10px;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
+
+ul {
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+ul li {
+    font-size: 1.1em;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #4f4e4e;
+    color: #fff;
+}
+</style>
